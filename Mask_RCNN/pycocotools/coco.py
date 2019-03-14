@@ -2,7 +2,7 @@ __author__ = 'tylin'
 __version__ = '2.0'
 # Interface for accessing the Microsoft COCO dataset.
 
-# Microsoft COCO is a large image dataset designed for object detection,
+
 # segmentation, and caption generation. pycocotools is a Python API that
 # assists in loading, parsing and visualizing the annotations in COCO.
 # Please visit http://mscoco.org/ for more information on COCO, including
